@@ -33,7 +33,7 @@ export function Sidebar() {
           <Zap className="h-4 w-4" />
         </div>
         {!sidebarCollapsed && (
-          <span className="text-[15px] font-semibold text-slate-900">SmartInvoice</span>
+          <span className="text-[15px] font-semibold text-slate-900">Nova Invoices</span>
         )}
       </div>
 

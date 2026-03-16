@@ -1,5 +1,5 @@
 {
-  "name": "invoice-generator",
+  "name": "nova-invoices",
   "private": true,
   "version": "0.0.0",
   "type": "module",
